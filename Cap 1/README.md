@@ -21,7 +21,7 @@
 - <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoi Chiovato</a>
 
 ### Link para o banco de imagens:
-- <a href="https://drive.google.com/drive/folders/10XfEQaJWGqeGNbswBUARRGu5X6W8Mboe?usp=drive_link"></a>
+- <a href="https://drive.google.com/drive/folders/10XfEQaJWGqeGNbswBUARRGu5X6W8Mboe?usp=drive_link">Banco de Imagens</a>
 
 
 ## 📜 Descrição
